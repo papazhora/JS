@@ -38,3 +38,4 @@ var $_____$=55;
 alert($_____$);
 alert($$__);
 alert(__);
+alert();
